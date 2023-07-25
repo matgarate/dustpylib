@@ -35,6 +35,8 @@ def setup_externalPhotoevaporation_FRIED(sim, fried_filename = "./friedgrid.dat"
     '''
 
 
+    print("Setting up the backreaction module.")
+    print("Please cite the work of Haworth et al.(2018), Sellek et al.(2020), and Garate et al.(in prep.)")
     ##################################
     # SET THE FRIED GRID
     ##################################
